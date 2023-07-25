@@ -23,3 +23,14 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 # roll-dice-app
 
+## UI on different platforms :
+
+## MacOS
+<img width="912" alt="Screenshot 2023-07-25 at 20 30 53" src="https://github.com/FilipIulia/roll-dice-app/assets/107275521/60d7e65d-4dd7-402a-8402-6e012c80c5ac">
+
+## Chrome
+<img width="612" alt="Screenshot 2023-07-25 at 20 32 54" src="https://github.com/FilipIulia/roll-dice-app/assets/107275521/df6f8f7d-02d7-41e0-b90a-3b7e7ef6c0d7">
+
+## Android (Pixel 6 API 30)
+<img width="489" alt="Screenshot 2023-07-25 at 20 35 52" src="https://github.com/FilipIulia/roll-dice-app/assets/107275521/83ab7dca-db45-467a-bdc2-a20d8e35232c">
+<img width="489" alt="Screenshot 2023-07-25 at 20 35 23" src="https://github.com/FilipIulia/roll-dice-app/assets/107275521/79ccbd43-03ea-484f-9a94-89e258ad27ab">
