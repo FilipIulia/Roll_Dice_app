@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Dice Roll Flutter App: Experience the excitement of rolling dice with a simple tap! This Flutter-powered mobile app generates a random number from 1 to 6 and displays the corresponding dice face image. Perfect for games and decision-making. Smooth, intuitive, and fun! 🎲📱 #Flutter #DiceRoll
 
 A few resources to get you started if this is your first Flutter project:
 
