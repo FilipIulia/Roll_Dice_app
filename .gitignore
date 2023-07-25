@@ -1,4 +1,4 @@
-# Miscellaneous
+ssh -T git@github.com# Miscellaneous
 *.class
 *.log
 *.pyc
