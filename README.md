@@ -1,6 +1,6 @@
 # roll_dice_app
 
-A new Flutter project.
+As a Flutter developer, I recently noticed that a new version of Flutter has been released. To refresh my knowledge, I decided to go through the old Flutter course but updated. To put this into practice, I created a simplistic and dummy application.
 
 ## Getting Started
 
